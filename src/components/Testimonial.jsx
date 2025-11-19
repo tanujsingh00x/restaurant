@@ -2,7 +2,7 @@ import React from "react";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import img from "../assets/img/review.jpg";
+import img from "/img/review.jpg";
 import { FaStar, FaRegStar } from "react-icons/fa";
 
 const testimonials = [
@@ -11,21 +11,21 @@ const testimonials = [
     name: "Guy Hawkins",
     text: "Foody is the best. Besides the many and delicious meals, it always delivers super fast and always fresh. I love it!",
     rating: 5,
-    avatar: "src/assets/img/review1.jpg",
+    avatar: "/img/review1.jpg",
   },
   {
     id: 2,
     name: "Jane Doe",
     text: "The meals are absolutely delicious and always arrive hot and on time. Highly recommend Foody!",
     rating: 4,
-    avatar: "src/assets/img/review2.jpg",
+    avatar: "/img/review2.jpg",
   },
   {
     id: 3,
     name: "Mark Smith",
     text: "Great service, fantastic food. Love the design and ease of the app too!",
     rating: 5,
-    avatar: "src/assets/img/review3.jpg",
+    avatar: "/img/review3.jpg",
   },
 ];
 

@@ -8,7 +8,7 @@ const dishes = [
     name: "Chicken Burger",
     price: "$5.99",
     tag: "Hot",
-    image: "src/assets/img/menu1.png",
+    image: "/img/menu1.png",
     description:
       "Crispy chicken patty with lettuce, tomato, and our signature sauce.",
   },
@@ -17,7 +17,7 @@ const dishes = [
     name: "Peri Peri Pizza",
     price: "$8.49",
     tag: "New",
-    image: "src/assets/img/menu2.png",
+    image: "/img/menu2.png",
     description:
       "Spicy Peri Peri sauce topped with olives, peppers, and mozzarella cheese.",
   },
@@ -26,7 +26,7 @@ const dishes = [
     name: "Sushi Deluxe",
     price: "$6.25",
     tag: "",
-    image: "src/assets/img/menu3.png",
+    image: "/img/menu3.png",
     description: "Fresh sushi rolls with tuna, salmon, and avocado.",
   },
   {
@@ -34,7 +34,7 @@ const dishes = [
     name: "Paneer Poppers",
     price: "$7.80",
     tag: "Hot",
-    image: "src/assets/img/menu4.png",
+    image: "/img/menu4.png",
     description: "Crispy paneer balls served with mint chutney.",
   },
   {
@@ -42,7 +42,7 @@ const dishes = [
     name: "Club Sandwich",
     price: "$3.20",
     tag: "",
-    image: "src/assets/img/menu5.png",
+    image: "/img/menu5.png",
     description: "Triple-decker sandwich with veggies and special sauce.",
   },
   {
@@ -50,7 +50,7 @@ const dishes = [
     name: "Mocktail Mojito",
     price: "$4.75",
     tag: "New",
-    image: "src/assets/img/menu6.png",
+    image: "/img/menu6.png",
     description: "Refreshing blend of mint, lime, and soda.",
   },
   {
@@ -58,7 +58,7 @@ const dishes = [
     name: "Nacho Fiesta",
     price: "$7.80",
     tag: "Hot",
-    image: "src/assets/img/menu7.png",
+    image: "/img/menu7.png",
     description: "Crispy nachos served with guacamole and cheese dip.",
   },
   {
@@ -66,7 +66,7 @@ const dishes = [
     name: "Biryani Bowl",
     price: "$3.20",
     tag: "",
-    image: "src/assets/img/menu8.png",
+    image: "/img/menu8.png",
     description: "Flavorful rice bowl with aromatic spices and tender chicken.",
   },
 ];

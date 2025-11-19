@@ -1,5 +1,5 @@
 import React from "react";
-import img from "../assets/img/order.png";
+import img from "/img/order.png";
 
 const GetApp = () => {
   return (

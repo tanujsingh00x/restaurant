@@ -4,7 +4,7 @@ import { MdDeliveryDining } from "react-icons/md";
 import { GiFoodTruck } from "react-icons/gi";
 import { BsCartCheckFill } from "react-icons/bs";
 import { FaLeaf } from "react-icons/fa";
-import img from "../assets/img/Hero.jpg";
+import img from "/img/Hero.jpg";
 
 const Hero = () => {
   return (
