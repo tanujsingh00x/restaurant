@@ -25,7 +25,7 @@ const processSteps = [
 const Process = () => {
   return (
     <section
-      className="bg-white dark:bg-black text-black dark:text-white py-10 px-5 lg:px-14 transition-colors duration-300"
+      className="bg-white dark:bg-black text-black dark:text-white mt-10 md:mt-0 py-10 px-5 lg:px-14 transition-colors duration-300"
       id="services"
     >
       <div className="text-center mb-12">

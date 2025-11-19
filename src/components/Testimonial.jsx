@@ -9,14 +9,14 @@ const testimonials = [
   {
     id: 1,
     name: "Guy Hawkins",
-    text: "Foody is the best. Besides the many and delicious meals, it always delivers super fast and always fresh. I love it!",
+    text: "SitaRam is the best. Besides the many and delicious meals, it always delivers super fast and always fresh. I love it!",
     rating: 5,
     avatar: "/img/review1.jpg",
   },
   {
     id: 2,
     name: "Jane Doe",
-    text: "The meals are absolutely delicious and always arrive hot and on time. Highly recommend Foody!",
+    text: "The meals are absolutely delicious and always arrive hot and on time. Highly recommend SitaRam!",
     rating: 4,
     avatar: "/img/review2.jpg",
   },
